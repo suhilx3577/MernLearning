@@ -1,0 +1,15 @@
+.box{
+    border: 1px solid black;
+    height: 400px;
+    width: auto;
+    background-image: linear-gradient(to right, rgb(92, 235, 240,0.5) , rgb(255, 201, 201,0.5),rgb(255, 125, 85,0.5));
+}
+
+.box1{
+    margin-top: 5px;
+    border: 1px solid black;
+    height: 400px;
+    width: auto;
+    /* background-image: radial-gradient(rgb(92, 235, 240,0.5) , rgb(255, 201, 201,0.5)); */
+    background-image: radial-gradient(circle,blue 20%,red 30%,yellow 50%);
+}

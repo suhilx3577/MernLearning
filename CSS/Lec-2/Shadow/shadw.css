@@ -1,0 +1,21 @@
+.shad1{
+    text-shadow: 3px 3px 4px red;
+    text-shadow: 3px 3px 4px red,6px 6px 8px blue;
+
+}
+
+.box{
+    height:40px;
+    width: 400px;
+    border: 2px solid black;
+    box-shadow: 6px 6px 5px grey;
+}
+
+.box1{
+    margin-top: 30px;
+    max-height: 100px;
+    width: 400px;
+    overflow: scroll;
+
+    border: 2px solid black;
+}

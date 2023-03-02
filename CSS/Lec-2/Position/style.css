@@ -1,0 +1,26 @@
+.box{
+    height:150px;
+    width: 150px;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 5px;
+    display: inline-block;
+    position: static;
+
+}
+
+.space{
+    height:500px;
+    border: 2px solid black;
+}
+
+.container{
+    height:2000px;
+    background-color: yellow;
+    position:relative;
+}
+
+#b2{
+    position: absolute;
+    top:200px;
+}

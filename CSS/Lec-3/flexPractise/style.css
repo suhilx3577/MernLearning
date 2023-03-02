@@ -1,0 +1,28 @@
+.container{
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+
+.box{
+    border:1px solid red;
+    /* width: 100px; */
+    /* height:100px */
+}
+
+#b1{
+    flex-grow: 1;
+}
+#b2{
+    flex-grow: 2;
+}
+#b3{
+    flex-grow:3;
+}
+#b4{
+    flex-grow:4;
+}
